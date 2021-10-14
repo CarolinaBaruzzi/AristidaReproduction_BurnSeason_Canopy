@@ -1,0 +1,7 @@
+﻿Variable ,Meaning
+Burn_Season,Plant season of burn
+Transect_ID,Unique transect identifier made by burn month and transect number within each research unit separated by an underscore
+Fecundity,Binary value indicating wether plants produced flowers
+Number_Inflorescences,Number of inflorescences produced by ech plant
+Canopy_Cover,Canopy cover category
+Basal_Area,Plant basal area in cm2
