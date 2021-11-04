@@ -1,0 +1,4 @@
+﻿Variable ,Meaning
+Burn_Season,"Season of burn. Plants burned during the early dry season were burned on January 12, 2019; Plants burned during the mid-dry season were burned on  March 24, 2019; Plants burned during the early wet season were burned on June 24, 2019."
+Canopy_Cover,"Canopy cover category. The partial canopy category included plots with less than 60% light transmitted, while the open canopy category included plots with more than 60% light transmitted."
+Percent_Light_Transmitted,Percent light transmitted through the canopy cover treatments as determined by analyzing fisheye lens canopy photos using Gap Light Analyzer software.
