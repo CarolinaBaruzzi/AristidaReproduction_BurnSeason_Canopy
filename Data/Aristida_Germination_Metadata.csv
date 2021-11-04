@@ -1,0 +1,5 @@
+﻿Variable,Meaning
+Burn_Season,"Season of burn. Plants burned during the early dry season were burned on January 12, 2019; Plants burned during the mid-dry season were burned on  March 24, 2019; Plants burned during the early wet season were burned on June 24, 2019"
+Box_ID,"Individual germination box ID, which is made by burn month_box number"
+Canopy_Cover,"Canopy cover category was assigned based on the calculated light transmittance from hemisperical canopy photos. The partial canopy category included plots with less than 60% light transmitted, while the open canopy category included plots with more than 60% light transmitted."
+Germinated,Binary variable indicating whether seeds germinated. A value of 1 indicates a seed germinated.

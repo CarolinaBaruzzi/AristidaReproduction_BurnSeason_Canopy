@@ -1,0 +1,7 @@
+﻿Variable ,Meaning
+Transect_ID,Unique transect identifier made by combining burn month and transect number within each research unit and separating with an underscore
+Burn_Season,"Season of burn. Plants burned during the early dry season were burned on January 12, 2019; Plants burned during the mid-dry season were burned on  March 24, 2019; Plants burned during the early wet season were burned on June 24, 2019"
+Fecundity,Binary value indicating whether plants produced flowers. A value of 1 indicates that a plant flowered
+Inflorescence_Number,"Count of the number of inflorescences (i.e., flowering culms) produced by each plant"
+Canopy_Cover,"Canopy cover category was assigned based on the calculated light transmittance from hemisperical canopy photos. The partial canopy category included plots with less than 60% light transmitted, while the open canopy category included plots with more than 60% light transmitted"
+Basal_Area,"Plant basal area in cm2, which was calculated using the area of an ellipse after measuring each plant at the base"
