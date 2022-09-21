@@ -1,4 +1,4 @@
-## Analyses and data for: Baruzzi, C., N. Medina-Irizarry, M.N. Armstrong, and R.M. Crandall. Fire season and canopy cover interact to affect reproduction of a pyrogenic bunchgrass, Aristida beyrichiana. Plant Ecology, Accepted.
+## Analyses and data for: Baruzzi, C., N. Medina-Irizarry, M.N. Armstrong, and R.M. Crandall. Fire season and canopy cover interact to affect reproduction of a pyrogenic bunchgrass, Aristida beyrichiana. Plant Ecology, 223: 263-272.
 
 This repository provides the data and R code for the analyses presented in the research article Baruzzi, C., N. Medina-Irizarry, M.N. Armstrong, and R.M. Crandall. Fire season and canopy cover interact to affect reproduction of a pyrogenic bunchgrass, _Aristida beyrichiana_. Plant Ecology, Accepted.
 
